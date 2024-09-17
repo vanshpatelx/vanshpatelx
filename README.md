@@ -22,9 +22,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/vansh-patel-8123/github-readme-stats"><img alt="Vansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshpatelx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshpatelx&" alt="vanshpatelx" /></p>
 <br/>
 <br/>
 
