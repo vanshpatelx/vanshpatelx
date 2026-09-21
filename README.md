@@ -6,13 +6,6 @@
 vansh-patel-8123/vansh-patel-8123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Dev Card
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/vanshpatelx/contributions?format=svg&private=true" width="350" />
-    </a>
-</p>
-
 
 
 ## My Github Stats 📊
