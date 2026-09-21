@@ -28,7 +28,23 @@ AI-native developers who operate *inside* a team rather than alongside it — pe
 
 ### [Watermelon](https://watermelon.sh) &nbsp;·&nbsp; design infrastructure for startups
 
-Startups move fast until design becomes the bottleneck: fragmented tools, inconsistent UI, velocity dying at the worst possible moment. Watermelon replaces the stitched-together stack with one ecosystem — Studio, UI, Native, Showcase and AI.
+Startups move fast until design becomes the bottleneck: fragmented tools, inconsistent UI, velocity dying at the worst possible moment. Watermelon replaces the stitched-together stack with one ecosystem — not a tool, an infrastructure.
+
+| Piece | What it is | Status |
+| :--- | :--- | :--- |
+| **Studio** | The agency arm — product design, UX audits, branding. Your design co-founder for the first 6–12 months | live |
+| **[UI](https://ui.watermelon.sh)** | Open-source React component platform | live |
+| **Native** | Mobile-first components for iOS, Android and cross-platform | soon |
+| **Showcase** | Curated design inspiration from real products, not dribbble shots | soon |
+| **AI** | The layer tying studio, UI, native and showcase into one workflow | in development |
+
+#### [Watermelon UI](https://ui.watermelon.sh) &nbsp;·&nbsp; the open-source core
+
+<a href="https://github.com/WatermelonCorp/watermelon-platform"><img src="https://img.shields.io/github/stars/WatermelonCorp/watermelon-platform?style=flat-square&label=stars&labelColor=161B22&color=161B22" alt="Stars"></a>
+<a href="https://github.com/WatermelonCorp/watermelon-platform"><img src="https://img.shields.io/github/forks/WatermelonCorp/watermelon-platform?style=flat-square&label=forks&labelColor=161B22&color=161B22" alt="Forks"></a>
+<a href="https://github.com/WatermelonCorp/watermelon-platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/WatermelonCorp/watermelon-platform?style=flat-square&labelColor=161B22&color=161B22" alt="License"></a>
+
+Animated React components, copy-paste blocks, dashboards, templates and curated showcases — built so you can go from visual reference to shipped implementation without losing maintainability along the way. Free for the community, developed in the open at [WatermelonCorp/watermelon-platform](https://github.com/WatermelonCorp/watermelon-platform), and open source by design rather than by convenience: design infrastructure that startups depend on shouldn't be something they can be locked out of.
 
 ---
 
