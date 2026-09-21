@@ -1,69 +1,175 @@
-- 👋 Hi, I’m @vanshpatelx
-- 👀 Technology ❤️ Business
-- 📫 How to reach me on remotevansh@gmail.com
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshpatelx/vanshpatelx/main/assets/header-dark.svg">
+    <img src="https://raw.githubusercontent.com/vanshpatelx/vanshpatelx/main/assets/header-light.svg" alt="Vansh Patel — backend and infrastructure engineer" width="100%">
+  </picture>
+</p>
 
-<!---
-vansh-patel-8123/vansh-patel-8123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://getblackhole.app"><img src="https://img.shields.io/badge/Black_Hole-getblackhole.app-161B22?style=flat-square&logo=apple&logoColor=white" alt="Black Hole"></a>
+  <a href="mailto:remotevansh@gmail.com"><img src="https://img.shields.io/badge/Email-remotevansh@gmail.com-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=vanshpatelx&label=Views&color=161b22&style=flat-square" alt="Profile views">
+</p>
 
-
-## My Github Stats 📊
----
-
-## 📈 GitHub Stats
-
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshpatelx&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshpatelx&layout=compact&theme=radical)
+I write backend services and the infrastructure they sit on — order matching in Go, service meshes on Kubernetes, event pipelines, and lately native macOS in Swift. Most of what's here is me taking a system apart to find out what it costs to keep it running.
 
 ---
-  <br/>
-    <a href="https://github.com/vansh-patel-8123/github-readme-stats"><img alt="Vansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vanshpatelx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/vansh-patel-8123/github-readme-stats"><img alt="Vansh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshpatelx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
 
-## Profile Views
+## Building now
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshpatelx&label=Profile%20views&color=0e75b6&style=flat" alt="vanshpatelx" /> </p>
+### [Black Hole](https://github.com/vanshpatelx/blackhole) &nbsp;·&nbsp; `SwiftUI` &nbsp;·&nbsp; [getblackhole.app](https://getblackhole.app)
 
- 
-## Programming Languages 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+Your whole day, one hover away. Tasks, a focus timer, a daily notepad and today's calendar live inside the MacBook notch. Press <kbd>⌥</kbd><kbd>Space</kbd> anywhere and type *"call mika tomorrow at 3pm"* — the date and time get lifted out of the sentence and it becomes a task with a reminder. During a focus session the notch turns into a live island with a progress ring and countdown. Reads iCloud, Google, Outlook and subscribed calendars; unfinished tasks roll over on their own. Free, open source, and no data leaves the machine.
 
+### [Otter](https://github.com/vanshpatelx/Otter) &nbsp;·&nbsp; `TypeScript`
 
- ## FrameWorks and Libraries I Use
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>  </a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> 
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+A local-first control center for AI coding agents spread across several machines. Rather than remote-controlling a computer, you reconnect to a persistent workspace that still holds its agents, dev servers, browser sessions and project context. A Worker runs on each machine; the desktop app is the console. Transport is direct and encrypted — Tailscale, WireGuard, LAN or an SSH tunnel — with an optional stateless relay. No source, prompts or conversations are uploaded anywhere.
 
-## Tools
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+### [Xocket](https://github.com/vanshpatelx/xocket-website) &nbsp;·&nbsp; `React 19` `Vite` `Tailwind v4`
 
-## DB
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+An AI-native, end-to-end product engineering studio — discovery through shipped product, with agents in the loop rather than bolted on afterwards.
 
+---
 
+## How the flagship works
+
+[**Opinex**](https://github.com/vanshpatelx/Opinex) is a real-time opinion trading platform: ten services across three languages, on Kubernetes. The interesting part isn't the service count — it's that the order path and the market-data path are deliberately separate, so a slow fan-out to thousands of WebSocket clients can never back-pressure the matching engine.
+
+```mermaid
+flowchart LR
+  C(["Client"]) -->|place order| O["Order<br/>Py"]
+  O -->|queue| E["Engine<br/>Go"]
+  V["Event<br/>Py"] -->|market events| E
+  subgraph settle["order path — durable, must not lose a fill"]
+    T["Trade<br/>TS"] --> S["Settlement<br/>TS"] --> H["Holding<br/>Go"]
+  end
+  subgraph fan["market-data path — lossy, must not block"]
+    M["WS Manager<br/>TS"] --> W["WS<br/>TS"]
+  end
+  E -->|fill| T
+  E -->|ticks| M
+  H --> D[("DB<br/>Server")]
+  W -->|live book| C
+  classDef hot stroke:#58A6FF,stroke-width:2.5px
+  class E hot
+```
+
+Go for the hot path (matching, holdings), Python where the logic changes often (orders, market events), TypeScript at the edges. Docker Compose locally, unit → integration → E2E in CI, Kubernetes in cloud.
+
+---
+
+## Selected work
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[TradeEngine 2.0](https://github.com/vanshpatelx/TradeEngine2.0)** | Order matching engine rebuilt for throughput — the second attempt, after the first taught me where the time actually went | `Go` |
+| **[benchmark](https://github.com/vanshpatelx/benchmark)** | Go vs Node under identical API load. Measured, rather than argued about | `Go` `Node` |
+| **[multi-lang-turborepo](https://github.com/vanshpatelx/multi-lang-turborepo)** | One Turborepo driving Go, Rust, Python and TypeScript together — shared tasks, one `turbo dev` | `Turborepo` |
+| **[AWS-K8s](https://github.com/vanshpatelx/AWS-K8s)** | Cluster bring-up on AWS from scratch, scripted | `Shell` `AWS` |
+| **[CICD](https://github.com/vanshpatelx/CICD)** | Fully automated CI/CD environment, infrastructure as code | `Terraform` |
+| **[Automated Blog System](https://github.com/vanshpatelx/AutomatedBlogCreationSystemWithApproval)** | Multi-agent writing pipeline: agents draft, Notion stores, a Telegram bot holds the approval gate before anything publishes | `Python` `AutoGen` `Gemini` |
+| **[Learning Assistant](https://github.com/vanshpatelx/learningAssistant)** | Upload a book, get a tutor for it — retrieval over your own material | `LangChain` `FAISS` |
+| **[MetaOffice](https://github.com/vanshpatelx/metaoffice)** | 2D metaverse office — own desks, meeting rooms, custom avatars | `TypeScript` |
+
+---
+
+## Toolkit
+
+**Languages**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<img src="https://img.shields.io/badge/Go-161B22?style=flat-square&logo=go&logoColor=00ADD8" alt="Go">
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=FFD43B" alt="Python">
+<img src="https://img.shields.io/badge/Swift-161B22?style=flat-square&logo=swift&logoColor=F05138" alt="Swift">
+<img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=649AD2" alt="C++">
+
+**Services & UI**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/SwiftUI-161B22?style=flat-square&logo=swift&logoColor=F05138" alt="SwiftUI">
+<img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Turborepo-161B22?style=flat-square&logo=turborepo&logoColor=EF4444" alt="Turborepo">
+<img src="https://img.shields.io/badge/Bun-161B22?style=flat-square&logo=bun&logoColor=FBF0DF" alt="Bun">
+
+**Infrastructure**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-161B22?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
+<img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
+<img src="https://img.shields.io/badge/Terraform-161B22?style=flat-square&logo=terraform&logoColor=844FBA" alt="Terraform">
+<img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Kafka-161B22?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+<img src="https://img.shields.io/badge/RabbitMQ-161B22?style=flat-square&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ">
+<img src="https://img.shields.io/badge/NGINX-161B22?style=flat-square&logo=nginx&logoColor=009639" alt="NGINX">
+
+**Data & AI**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
+<img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis">
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini">
+
+---
+
+<details>
+<summary><b>The numbers</b></summary>
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshpatelx&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshpatelx&theme=github" alt="Profile summary">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshpatelx&theme=github_dark">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshpatelx&theme=github" alt="Repos per language">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshpatelx&theme=github_dark">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshpatelx&theme=github" alt="Most committed languages">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vanshpatelx&hide_border=true&background=00000000&ring=58A6FF&fire=F85149&currStreakLabel=58A6FF&stroke=30363D&dates=8B949E&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9">
+    <img src="https://streak-stats.demolab.com?user=vanshpatelx&hide_border=true&background=00000000&ring=0969DA&fire=CF222E&currStreakLabel=0969DA&stroke=D0D7DE&dates=57606A&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328" alt="Contribution streak">
+  </picture>
+</p>
+
+<p align="center"><sub>Language breakdown reflects what my public code happens to be written in — not what I'm good at.</sub></p>
+
+<!--
+  The classic github-readme-stats cards are intentionally not used here: the public
+  instance at github-readme-stats.vercel.app currently returns 503 DEPLOYMENT_PAUSED
+  for every user, so those cards render as broken images. To bring them back, deploy
+  your own instance (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
+  and point these URLs at it.
+-->
+
+</details>
+
+<details>
+<summary><b>The back catalogue</b> — 117 repos, and what they're for</summary>
+<br>
+
+Most of this profile is deliberate practice, kept public on purpose. Roughly:
+
+- **Distributed systems** — [trading-system](https://github.com/vanshpatelx/trading-system), [exchange](https://github.com/vanshpatelx/exchange), [Microservices-Event-driven](https://github.com/vanshpatelx/Microservices-Event-driven), [Kafka](https://github.com/vanshpatelx/Kafka), [rabbitMQ](https://github.com/vanshpatelx/rabbitMQ), [websockets](https://github.com/vanshpatelx/websockets)
+- **Infra & DevOps** — [devenv](https://github.com/vanshpatelx/devenv), [devOpsInfra](https://github.com/vanshpatelx/devOpsInfra), [DevSecOps](https://github.com/vanshpatelx/DevSecOps), [civoK8s](https://github.com/vanshpatelx/civoK8s), [etoepipeline](https://github.com/vanshpatelx/etoepipeline)
+- **AI & ML** — [virtual-ai](https://github.com/vanshpatelx/virtual-ai), [MeetingAI](https://github.com/vanshpatelx/MeetingAI), [Movie-recommendation-system-ML](https://github.com/vanshpatelx/Movie-recommendation-system-ML), [SP-500-Market-Prediction](https://github.com/vanshpatelx/SP-500-Market-Prediction), [FaceMask-Detection-using-CNN](https://github.com/vanshpatelx/FaceMask-Detection-using-CNN)
+- **SDKs & libraries** — [hashnodeSDK](https://github.com/vanshpatelx/hashnodeSDK), [E-commerce-SDK](https://github.com/vanshpatelx/E-commerce-SDK), [ReactLib](https://github.com/vanshpatelx/ReactLib)
+- **Fundamentals** — [Data-Structures](https://github.com/vanshpatelx/Data-Structures), [Algos](https://github.com/vanshpatelx/Algos), [Question-Pattens](https://github.com/vanshpatelx/Question-Pattens), [DSA-Roadmap](https://github.com/vanshpatelx/DSA-Roadmap)
+
+</details>
+
+---
+
+<p align="center">
+  Open to hard problems in distributed systems, trading infrastructure and AI-native tooling.<br>
+  <a href="mailto:remotevansh@gmail.com"><b>remotevansh@gmail.com</b></a>
+</p>
