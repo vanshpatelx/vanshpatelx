@@ -1,21 +1,38 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshpatelx/vanshpatelx/main/assets/header-dark.svg">
-    <img src="https://raw.githubusercontent.com/vanshpatelx/vanshpatelx/main/assets/header-light.svg" alt="Vansh Patel — backend and infrastructure engineer" width="100%">
+    <img src="https://raw.githubusercontent.com/vanshpatelx/vanshpatelx/main/assets/header-light.svg" alt="Vansh Patel — founder and engineer" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://getblackhole.app"><img src="https://img.shields.io/badge/Black_Hole-getblackhole.app-161B22?style=flat-square&logo=apple&logoColor=white" alt="Black Hole"></a>
+  <a href="https://oceanlab.in"><img src="https://img.shields.io/badge/Oceanlab-oceanlab.in-161B22?style=flat-square" alt="Oceanlab"></a>
+  <a href="https://xocket.sh"><img src="https://img.shields.io/badge/Xocket-xocket.sh-161B22?style=flat-square" alt="Xocket"></a>
+  <a href="https://watermelon.sh"><img src="https://img.shields.io/badge/Watermelon-watermelon.sh-161B22?style=flat-square" alt="Watermelon"></a>
   <a href="mailto:remotevansh@gmail.com"><img src="https://img.shields.io/badge/Email-remotevansh@gmail.com-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=vanshpatelx&label=Views&color=161b22&style=flat-square" alt="Profile views">
 </p>
 
-I write backend services and the infrastructure they sit on — order matching in Go, service meshes on Kubernetes, event pipelines, and lately native macOS in Swift. Most of what's here is me taking a system apart to find out what it costs to keep it running.
+I run three companies and still write the code. Backend services and the infrastructure under them — order matching in Go, event pipelines, Kubernetes, and lately native macOS in Swift. Most of what is on this profile is me taking a system apart to find out what it costs to keep it running.
 
 ---
 
-## Building now
+## Ventures
+
+### [Oceanlab](https://oceanlab.in) &nbsp;·&nbsp; enterprise software engineering, human + AI
+
+We design, build and operate enterprise-grade software for organisations that cannot afford to get it wrong — the velocity of AI prototyping with the rigour of senior human engineers, and compliance-ready from day one: SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS.
+
+### [Xocket](https://xocket.sh) &nbsp;·&nbsp; the execution layer for modern teams
+
+AI-native developers who operate *inside* a team rather than alongside it — people who understand the product, talk to non-technical stakeholders in their own language, and ship materially faster than a traditional contract team. Building, not polishing.
+
+### [Watermelon](https://watermelon.sh) &nbsp;·&nbsp; design infrastructure for startups
+
+Startups move fast until design becomes the bottleneck: fragmented tools, inconsistent UI, velocity dying at the worst possible moment. Watermelon replaces the stitched-together stack with one ecosystem — Studio, UI, Native, Showcase and AI.
+
+---
+
+## Products
 
 ### [Black Hole](https://github.com/vanshpatelx/blackhole) &nbsp;·&nbsp; `SwiftUI` &nbsp;·&nbsp; [getblackhole.app](https://getblackhole.app)
 
@@ -24,10 +41,6 @@ Your whole day, one hover away. Tasks, a focus timer, a daily notepad and today'
 ### [Otter](https://github.com/vanshpatelx/Otter) &nbsp;·&nbsp; `TypeScript`
 
 A local-first control center for AI coding agents spread across several machines. Rather than remote-controlling a computer, you reconnect to a persistent workspace that still holds its agents, dev servers, browser sessions and project context. A Worker runs on each machine; the desktop app is the console. Transport is direct and encrypted — Tailscale, WireGuard, LAN or an SSH tunnel — with an optional stateless relay. No source, prompts or conversations are uploaded anywhere.
-
-### [Xocket](https://github.com/vanshpatelx/xocket-website) &nbsp;·&nbsp; `React 19` `Vite` `Tailwind v4`
-
-An AI-native, end-to-end product engineering studio — discovery through shipped product, with agents in the loop rather than bolted on afterwards.
 
 ---
 
@@ -69,6 +82,7 @@ Go for the hot path (matching, holdings), Python where the logic changes often (
 | **[CICD](https://github.com/vanshpatelx/CICD)** | Fully automated CI/CD environment, infrastructure as code | `Terraform` |
 | **[Automated Blog System](https://github.com/vanshpatelx/AutomatedBlogCreationSystemWithApproval)** | Multi-agent writing pipeline: agents draft, Notion stores, a Telegram bot holds the approval gate before anything publishes | `Python` `AutoGen` `Gemini` |
 | **[Learning Assistant](https://github.com/vanshpatelx/learningAssistant)** | Upload a book, get a tutor for it — retrieval over your own material | `LangChain` `FAISS` |
+| **[xocket-website](https://github.com/vanshpatelx/xocket-website)** | Marketing site for Xocket — React 19, Vite, Tailwind v4, shadcn/ui | `React` `Vite` |
 | **[MetaOffice](https://github.com/vanshpatelx/metaoffice)** | 2D metaverse office — own desks, meeting rooms, custom avatars | `TypeScript` |
 
 ---
@@ -115,6 +129,10 @@ Go for the hot path (matching, holdings), Python where the logic changes often (
 <details>
 <summary><b>The numbers</b></summary>
 <br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshpatelx&label=Profile%20views&color=161b22&style=flat-square" alt="Profile views">
+</p>
 
 <p align="center">
   <picture>
@@ -170,6 +188,7 @@ Most of this profile is deliberate practice, kept public on purpose. Roughly:
 ---
 
 <p align="center">
-  Open to hard problems in distributed systems, trading infrastructure and AI-native tooling.<br>
+  <a href="https://oceanlab.in"><b>Oceanlab</b></a> &nbsp;·&nbsp; <a href="https://xocket.sh"><b>Xocket</b></a> &nbsp;·&nbsp; <a href="https://watermelon.sh"><b>Watermelon</b></a><br><br>
+  Building something hard, or want to build it together?<br>
   <a href="mailto:remotevansh@gmail.com"><b>remotevansh@gmail.com</b></a>
 </p>
